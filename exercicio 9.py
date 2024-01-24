@@ -37,8 +37,9 @@ for p in dados:
     if p['idade'] >= média:
         print('   ')
         for k,v in p.items():
-            print(f'{k} = {v}', end='')
+            print(f'{k} = {v}', end= '')
         print()
 print('<< ENCERRADO >>')
 
+print('-='*40)
 

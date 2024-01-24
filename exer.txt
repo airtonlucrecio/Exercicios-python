@@ -1,0 +1,43 @@
+{
+      "id": 1229792,
+      "serial_Number": "15519",
+      "add_itional_Id": "",
+      "company_Group_Id": 2,
+      "company_Group_Name": "Sul",
+      "branch_Office_Id": 1342,
+      "branch_Office_Name": "Laranjal",
+      "times_Retreaded": 3,
+      "max_Retreads_Expected": 4,
+      "recommended_Pressure": 100.0,
+      "middle_Inner_TreadDepth": 14.0,
+      "outer_TreadDepth": 14.0,
+      "middle_Outer_TreadDepth": 14.0,
+      "inner_TreadDepth": 14.0,
+      "dot": "0000",
+      "purchase_Cost": 2200,
+      "new_Tire": false,
+      "status": "INSTALLED",
+      "created_At": "2023-08-14T20:21:22.023234Z",
+      "tire_Size_id": 3085,
+      "tire_Size_height": 80.0,
+      "tire_Size_width": 275.0,
+      "tire_Size_rim": 22.5
+      "make_id": 4810,
+      "make_name": "GOODYEAR"
+      "model_id": 13176,
+      "model_name": "Geral",
+      "model_groovesQuantity": 4,
+      "model_treadDepth": 15.0
+      "Retread_make_id": 1942,
+      "Retread_make_name": "ZE2"
+      "Retread_model_id": 8011,
+      "Retread_model_name": "GERAL",
+      "Retread_model_groovesQuant": 3,
+      "Retread_model_treadDepth": 14.0
+      "retreadCost": 445
+      "installed_vehicleId": 122922,
+      "installed_licensePlate": "IXI7361",
+      "installed_fleetId": "407L",
+      "installed_installedPosition": 211
+      
+    }
